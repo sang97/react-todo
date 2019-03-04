@@ -1,6 +1,6 @@
 # React Crash Course (TodoList)
 
-This is the code for the crash course on YouTube https://youtu.be/sBws8MSXN7A
+Simple React-Todo list I wrote by following the instruction on this YouTube crash course on https://youtu.be/sBws8MSXN7A by Traversy Media.
 
 ## Quick Start
 
