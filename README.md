@@ -1,6 +1,6 @@
 # React Crash Course (TodoList)
 
-This is the code for the crash course on YouTube
+This is the code for the crash course on YouTube https://youtu.be/sBws8MSXN7A
 
 ## Quick Start
 
